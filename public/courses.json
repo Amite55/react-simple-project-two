@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Python Programming",
+        "description": "Learn the fundamentals of Python programming language, including syntax, data structures, and basic algorithms.",
+        "credit": 3,
+        "img": "https://i.ibb.co/RQcvWZN/mohammad-rahmani-g-A396xahf-Q-unsplash.jpg",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "title": "Web Development Bootcamp",
+        "description": "Master the essential skills of web development, including HTML, CSS, JavaScript, and popular frameworks like React and Node.js.",
+        "credit": 4,
+        "img": "https://i.ibb.co/2vSfw5x/ben-griffiths-Bj6-ENZDMSDY-unsplash.jpg",
+        "price": 79.99
+    },
+    {
+        "id": 3,
+        "title": "Data Science for Beginners",
+        "description": "Get started with data science by learning key concepts such as data analysis, visualization, and machine learning using Python and popular libraries like Pandas and Matplotlib.",
+        "credit": 3,
+        "img": "https://i.ibb.co/n7rPxFf/emile-perron-xr-VDYZRGdw4-unsplash.jpg",
+        "price": 59.99
+    },
+    {
+        "id": 4,
+        "title": "Introduction to Machine Learning",
+        "description": "Explore the fundamentals of machine learning, including supervised and unsupervised learning algorithms, and learn how to apply them to real-world problems.",
+        "credit": 3,
+        "img": "https://i.ibb.co/MZSMdmx/lewis-kang-ethe-ngugi-f5p-Tw-LHCs-Ag-unsplash.jpg",
+        "price": 69.99
+    },
+    {
+        "id": 5,
+        "title": "Graphic Design Fundamentals",
+        "description": "Learn the principles of graphic design, including color theory, typography, layout, and image editing using tools like Adobe Photoshop and Illustrator.",
+        "credit": 2,
+        "img": "https://i.ibb.co/zJjx5rn/chris-ried-ieic5-Tq8-YMk-unsplash.jpg",
+        "price": 39.99
+    },
+    {
+        "id": 6,
+        "title": "Digital Marketing Essentials",
+        "description": "Discover the fundamentals of digital marketing, including SEO, social media marketing, email marketing, and analytics tools.",
+        "credit": 2,
+        "img": "https://i.ibb.co/q1tLgxQ/scott-webb-Vn-F3-HCHB0g-E-unsplash.jpg",
+        "price": 49.99
+    },
+    {
+        "id": 7,
+        "title": "Introduction to Blockchain Technology",
+        "description": "Gain an understanding of blockchain technology and cryptocurrencies, including Bitcoin and Ethereum, and explore their potential applications.",
+        "credit": 3,
+        "img": "https://i.ibb.co/q1tLgxQ/scott-webb-Vn-F3-HCHB0g-E-unsplash.jpg",
+        "price": 59.99
+    },
+    {
+        "id": 8,
+        "title": "Photography Basics",
+        "description": "Learn the basics of photography, including camera settings, composition techniques, and photo editing using software like Adobe Lightroom.",
+        "credit": 2,
+        "img": "https://i.ibb.co/LDKj7q8/szabo-viktor-rr-DL0i-Svc-Yc-unsplash.jpg",
+        "price": 34.99
+    },
+    {
+        "id": 9,
+        "title": "English Language Mastery",
+        "description": "Improve your English language skills in grammar, vocabulary, speaking, and writing through interactive lessons and practice exercises.",
+        "credit": 2,
+        "img": "https://i.ibb.co/n8TGTKb/lavi-perchik-f-Sq-Yw-KWzwhk-unsplash.jpg",
+        "price": 29.99
+    }
+]
